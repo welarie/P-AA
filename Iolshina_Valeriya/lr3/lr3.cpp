@@ -2,7 +2,6 @@
 #include <stack>
 #include <iostream>
 #include <algorithm>
-#include<climits>
 #define N 20
 
 using namespace std;
